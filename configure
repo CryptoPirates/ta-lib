@@ -9169,7 +9169,7 @@ if test "${ac_cv_lib_dl_dlopen+set}" = set; then
   echo $ECHO_N "(cached) $ECHO_C" >&6
 else
   ac_check_lib_save_LIBS=$LIBS
-LIBS="-ldl -lm  $LIBS"
+LIBS="-ldl  $LIBS"
 cat >conftest.$ac_ext <<_ACEOF
 /* confdefs.h.  */
 _ACEOF
@@ -9475,7 +9475,7 @@ if test "${ac_cv_lib_dl_dlopen+set}" = set; then
   echo $ECHO_N "(cached) $ECHO_C" >&6
 else
   ac_check_lib_save_LIBS=$LIBS
-LIBS="-ldl -lm  $LIBS"
+LIBS="-ldl  $LIBS"
 cat >conftest.$ac_ext <<_ACEOF
 /* confdefs.h.  */
 _ACEOF
@@ -19132,7 +19132,7 @@ if test "${ac_cv_lib_dl_dlopen+set}" = set; then
   echo $ECHO_N "(cached) $ECHO_C" >&6
 else
   ac_check_lib_save_LIBS=$LIBS
-LIBS="-ldl -lm  $LIBS"
+LIBS="-ldl  $LIBS"
 cat >conftest.$ac_ext <<_ACEOF
 /* confdefs.h.  */
 _ACEOF
@@ -19192,7 +19192,7 @@ if test $ac_cv_lib_dl_dlopen = yes; then
 #define HAVE_LIBDL 1
 _ACEOF
 
-  LIBS="-ldl -lm $LIBS"
+  LIBS="-ldl $LIBS"
 
 fi
 
