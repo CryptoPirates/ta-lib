@@ -1,0 +1,58 @@
+ta_global.lo: ta_global.c /usr/include/stdc-predef.h \
+ /usr/include/fortify/stdlib.h /usr/include/stdlib.h \
+ /usr/include/features.h /usr/include/bits/alltypes.h \
+ /usr/include/alloca.h /usr/include/limits.h /usr/include/bits/limits.h \
+ /usr/include/fortify/fortify-headers.h /usr/include/fortify/string.h \
+ /usr/include/string.h /usr/include/fortify/strings.h \
+ /usr/include/strings.h /usr/include/time.h ../../include/ta_common.h \
+ /usr/include/fortify/stdio.h /usr/include/stdio.h /usr/include/limits.h \
+ /usr/include/float.h /usr/include/bits/float.h ../../include/ta_defs.h \
+ ta_magic_nb.h ta_global.h ../../include/ta_func.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/fortify/stdlib.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/features.h:
+
+/usr/include/bits/alltypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/limits.h:
+
+/usr/include/fortify/fortify-headers.h:
+
+/usr/include/fortify/string.h:
+
+/usr/include/string.h:
+
+/usr/include/fortify/strings.h:
+
+/usr/include/strings.h:
+
+/usr/include/time.h:
+
+../../include/ta_common.h:
+
+/usr/include/fortify/stdio.h:
+
+/usr/include/stdio.h:
+
+/usr/include/limits.h:
+
+/usr/include/float.h:
+
+/usr/include/bits/float.h:
+
+../../include/ta_defs.h:
+
+ta_magic_nb.h:
+
+ta_global.h:
+
+../../include/ta_func.h:

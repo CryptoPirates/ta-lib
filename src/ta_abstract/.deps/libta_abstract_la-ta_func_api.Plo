@@ -1,0 +1,33 @@
+libta_abstract_la-ta_func_api.lo: ta_func_api.c \
+ /usr/include/stdc-predef.h ../../include/ta_abstract.h \
+ ../../include/ta_common.h /usr/include/fortify/stdio.h \
+ /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/bits/alltypes.h /usr/include/fortify/fortify-headers.h \
+ /usr/include/limits.h /usr/include/bits/limits.h /usr/include/float.h \
+ /usr/include/bits/float.h ../../include/ta_defs.h
+
+/usr/include/stdc-predef.h:
+
+../../include/ta_abstract.h:
+
+../../include/ta_common.h:
+
+/usr/include/fortify/stdio.h:
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/bits/alltypes.h:
+
+/usr/include/fortify/fortify-headers.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/limits.h:
+
+/usr/include/float.h:
+
+/usr/include/bits/float.h:
+
+../../include/ta_defs.h:
