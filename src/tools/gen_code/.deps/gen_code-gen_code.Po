@@ -1,0 +1,69 @@
+gen_code-gen_code.o: gen_code.c /usr/include/stdc-predef.h \
+ ../../ta_common/ta_pragma.h /usr/include/fortify/stdio.h \
+ /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/bits/alltypes.h /usr/include/fortify/fortify-headers.h \
+ /usr/include/fortify/string.h /usr/include/string.h \
+ /usr/include/fortify/strings.h /usr/include/strings.h \
+ /usr/include/fortify/stdlib.h /usr/include/stdlib.h \
+ /usr/include/alloca.h /usr/include/limits.h /usr/include/bits/limits.h \
+ /usr/include/stdarg.h /usr/include/ctype.h /usr/include/fortify/unistd.h \
+ /usr/include/unistd.h /usr/include/bits/posix.h \
+ ../../../include/ta_common.h /usr/include/limits.h /usr/include/float.h \
+ /usr/include/bits/float.h ../../../include/ta_defs.h \
+ ../../../include/ta_abstract.h ../../ta_common/ta_memory.h
+
+/usr/include/stdc-predef.h:
+
+../../ta_common/ta_pragma.h:
+
+/usr/include/fortify/stdio.h:
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/bits/alltypes.h:
+
+/usr/include/fortify/fortify-headers.h:
+
+/usr/include/fortify/string.h:
+
+/usr/include/string.h:
+
+/usr/include/fortify/strings.h:
+
+/usr/include/strings.h:
+
+/usr/include/fortify/stdlib.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/alloca.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/limits.h:
+
+/usr/include/stdarg.h:
+
+/usr/include/ctype.h:
+
+/usr/include/fortify/unistd.h:
+
+/usr/include/unistd.h:
+
+/usr/include/bits/posix.h:
+
+../../../include/ta_common.h:
+
+/usr/include/limits.h:
+
+/usr/include/float.h:
+
+/usr/include/bits/float.h:
+
+../../../include/ta_defs.h:
+
+../../../include/ta_abstract.h:
+
+../../ta_common/ta_memory.h:

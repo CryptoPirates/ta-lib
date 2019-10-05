@@ -1,0 +1,43 @@
+libta_abstract_gc_la-table_t.lo: tables/table_t.c \
+ /usr/include/stdc-predef.h /usr/include/stddef.h \
+ /usr/include/bits/alltypes.h ../../include/ta_abstract.h \
+ ../../include/ta_common.h /usr/include/fortify/stdio.h \
+ /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/fortify/fortify-headers.h /usr/include/limits.h \
+ /usr/include/bits/limits.h /usr/include/float.h \
+ /usr/include/bits/float.h ../../include/ta_defs.h ta_def_ui.h \
+ ta_frame_priv.h ../ta_common/ta_magic_nb.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/stddef.h:
+
+/usr/include/bits/alltypes.h:
+
+../../include/ta_abstract.h:
+
+../../include/ta_common.h:
+
+/usr/include/fortify/stdio.h:
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/fortify/fortify-headers.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/limits.h:
+
+/usr/include/float.h:
+
+/usr/include/bits/float.h:
+
+../../include/ta_defs.h:
+
+ta_def_ui.h:
+
+ta_frame_priv.h:
+
+../ta_common/ta_magic_nb.h:

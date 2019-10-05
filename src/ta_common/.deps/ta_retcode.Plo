@@ -1,0 +1,30 @@
+ta_retcode.lo: ta_retcode.c /usr/include/stdc-predef.h \
+ ../../include/ta_common.h /usr/include/fortify/stdio.h \
+ /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/bits/alltypes.h /usr/include/fortify/fortify-headers.h \
+ /usr/include/limits.h /usr/include/bits/limits.h /usr/include/float.h \
+ /usr/include/bits/float.h ../../include/ta_defs.h
+
+/usr/include/stdc-predef.h:
+
+../../include/ta_common.h:
+
+/usr/include/fortify/stdio.h:
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/bits/alltypes.h:
+
+/usr/include/fortify/fortify-headers.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/limits.h:
+
+/usr/include/float.h:
+
+/usr/include/bits/float.h:
+
+../../include/ta_defs.h:
