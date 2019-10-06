@@ -1,5 +1,4 @@
-# ta-lib
-This is our own copy of talib to do what we want with. Also to keep in case anything ever happened to the source out in the wild.
+# Technical Analysis Library (TA-Lib)
 
 ## Installation
 
